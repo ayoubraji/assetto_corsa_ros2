@@ -1,0 +1,19 @@
+build/
+install/
+log/
+
+# python
+*.pyc
+*.pyo
+dist/
+__pycache__/
+
+*~
+
+# Emacs
+.#*
+
+# vim
+*.swp
+
+.vscode
