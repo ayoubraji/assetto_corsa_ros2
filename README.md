@@ -1,6 +1,8 @@
 # assetto_corsa_ros2
 ROS2 Wrapper to communicate with Assetto Corsa racing simulator.
+
 These interfaces are part of the paper: [A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data](https://dasgringuen.github.io/assetto_corsa_gym/).
+
 Main repo of the paper: [assetto_corsa_gym](https://github.com/dasGringuen/assetto_corsa_gym)
 
 Requirements:
